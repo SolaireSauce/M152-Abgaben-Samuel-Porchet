@@ -1,0 +1,10 @@
+1.  Ein Logo vor einem farbigem Hintergrund.
+2.  Tags beim code.
+3.  Chrome Logo.
+4.  Dropdown menu
+5.  Pfeile um anzuzeigen welcher Teil gemeint ist.
+6.  Gleichfarbige Teile einer Website werden automatisch gruppiert.
+7.  Das Navbar.
+8.  Starbucks Logo.
+9.  Googlemaps linien.
+10. Wenn sich die Navbar beim scrollen mitbewegt.
